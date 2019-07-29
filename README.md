@@ -1,4 +1,4 @@
-#akka-http-images
+## akka-http-images
 
 Serves up an image on the /image endpoint, with the left hand side distorted pixel by pixel,
 by some random amount to each r,g,b value
